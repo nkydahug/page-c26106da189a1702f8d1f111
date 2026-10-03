@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-dbe2fb76f9.besjk.cn/sitemap.xml
